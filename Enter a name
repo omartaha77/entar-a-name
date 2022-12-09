@@ -1,0 +1,5 @@
+print("enter your first name")
+name1=input()
+print("enter your second name")
+name2=input()
+print(f"your name is {name1.title()+name2.title()}")
